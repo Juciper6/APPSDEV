@@ -16,6 +16,13 @@ export default function App() {
       description: "Once upon a time there was a kid who was once mesmerize by the story of the book about the Witch",
       buttonLabel:"https://silent-witch.fandom.com/wiki/Monica_Everett",
     },
+    {
+      imgSrc:"/lucy.png",
+      name: "Lucy Maeril",
+      role: "Witch",
+      description: "Once upon a time there was a kid who was once mesmerize by the story of the book about the Witch",
+      buttonLabel:"https://academysurvival.fandom.com/wiki/Lucy_Maeril",
+    },
   ]
   return (
     <>
@@ -25,3 +32,4 @@ export default function App() {
     </>
   )
 }
+
