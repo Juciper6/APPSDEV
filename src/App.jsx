@@ -28,8 +28,10 @@ export default function App() {
     <>
       <Profile userData={userData[0]}/>
       <Profile userData={userData[1]}/>
+      <Profile userData={userData[2]}/>
 
     </>
   )
 }
+
 
